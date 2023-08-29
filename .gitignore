@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore files related to API keys
+.env
+
+# Ignore image files
+*.jpg
+
+# Ignore files related to the database
+*.db
