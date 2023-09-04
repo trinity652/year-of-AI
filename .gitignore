@@ -9,3 +9,6 @@
 
 # Ignore files related to the database
 *.db
+
+# Ignore zip files 
+*.zip
