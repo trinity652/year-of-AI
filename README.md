@@ -1,2 +1,2 @@
-# year-of-AI
-Just like my year of problem solving repository, this is my personal journey to code the AI algorithms I read about, and things I do to hone my skills. 
+# MLVisualize
+An interactive guide to basic machine learning models. Dive into the fundamentals of ML with visualizations and simple implementations to understand how these models learn and make predictions
